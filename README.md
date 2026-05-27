@@ -118,8 +118,8 @@ Through this project, I learned:
 
 ## Author
 
-Divy  
+Divyaa Shri B
 Aspiring Data Analyst
 
-LinkedIn: Add Your LinkedIn URL  
-GitHub: Add Your GitHub URL
+LinkedIn: https://www.linkedin.com/in/divyaa-shri-b-518513252/
+GitHub: https://github.com/divya-0315/Banking-Risk-Analytics-Dashboard
