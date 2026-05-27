@@ -1,4 +1,4 @@
-# Banking Risk Analytics Dashboard using Power BI
+# ![alt text](bank-icon.png) Banking Risk Analytics Dashboard using Power BI
 
 ## Project Overview
 
