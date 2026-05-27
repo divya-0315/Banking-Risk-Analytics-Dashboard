@@ -84,12 +84,14 @@ The dataset contains banking customer information including:
 ### Home Dashboard
 ![alt text](<Home Page.png>)
 
-### Risk Analysis
+### Loan Analysis
 ![alt text](<Loan Analysis.png>)
 
-### Customer Insights
+### Desposit Analysis
 ![alt text](<Deposit Analysis.png>)
 
+### Summary
+![alt text](Summary.png)
 ---
 
 ## Project Learnings
