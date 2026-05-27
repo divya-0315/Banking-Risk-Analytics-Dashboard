@@ -82,13 +82,13 @@ The dataset contains banking customer information including:
 ## Dashboard Screenshots
 
 ### Home Dashboard
-![Home Dashboard](Dashboard%20Screenshots/dashboard-home.png)
+![alt text](<Home Page.png>)
 
 ### Risk Analysis
-![Risk Analysis](Dashboard%20Screenshots/risk-analysis.png)
+![alt text](<Loan Analysis.png>)
 
 ### Customer Insights
-![Customer Insights](Dashboard%20Screenshots/customer-insights.png)
+![alt text](<Deposit Analysis.png>)
 
 ---
 
